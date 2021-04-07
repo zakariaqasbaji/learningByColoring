@@ -1,6 +1,6 @@
 # learningByColoring
 
-The best way of learning for a 3-6 years old kid is by playing, this app gives the possibility of learning numbers and names of animals by listening and coloring the correspondent pictures.
+The best way of learning for a 3-6 years old kid is by playing, this app gives the possibility of learning numbers and names of animals by listening and coloring the corresponding picture.
 
 ![accueil ](/home.jpeg)
 ![numbers ](/numbers.jpeg)
